@@ -1,0 +1,383 @@
+fileFormatVersion: 2
+guid: e2d54f18a7e63ef40ae609833d36799a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 001xx66 1
+    100002: "3D\u6E9C\u6E9C\u7F51-\u6A21\u578B\u4E0D\u96BE\u627E"
+    100004: Base
+    100006: BLightL
+    100008: BLightLG
+    100010: BLightR
+    100012: BLightRG
+    100014: Body
+    100016: BrakeFL
+    100018: BrakeFR
+    100020: BrakeRL
+    100022: BrakeRR
+    100024: BumperF
+    100026: BumperFB
+    100028: BumperR
+    100030: BumperRB
+    100032: //RootNode
+    100034: DoorL
+    100036: DoorR
+    100038: Exhaust
+    100040: HLightL
+    100042: HLightLG
+    100044: HLightR
+    100046: HLightRG
+    100048: Hood
+    100050: Interior
+    100052: LicenseF
+    100054: LicenseR
+    100056: MirrorL
+    100058: MirrorR
+    100060: Roof
+    100062: Skirt
+    100064: TireFL
+    100066: TireFR
+    100068: TireRL
+    100070: TireRR
+    100072: USpoiler
+    100074: WindF
+    100076: WindFL
+    100078: WindFR
+    100080: WindR
+    400000: 001xx66 1
+    400002: "3D\u6E9C\u6E9C\u7F51-\u6A21\u578B\u4E0D\u96BE\u627E"
+    400004: Base
+    400006: BLightL
+    400008: BLightLG
+    400010: BLightR
+    400012: BLightRG
+    400014: Body
+    400016: BrakeFL
+    400018: BrakeFR
+    400020: BrakeRL
+    400022: BrakeRR
+    400024: BumperF
+    400026: BumperFB
+    400028: BumperR
+    400030: BumperRB
+    400032: //RootNode
+    400034: DoorL
+    400036: DoorR
+    400038: Exhaust
+    400040: HLightL
+    400042: HLightLG
+    400044: HLightR
+    400046: HLightRG
+    400048: Hood
+    400050: Interior
+    400052: LicenseF
+    400054: LicenseR
+    400056: MirrorL
+    400058: MirrorR
+    400060: Roof
+    400062: Skirt
+    400064: TireFL
+    400066: TireFR
+    400068: TireRL
+    400070: TireRR
+    400072: USpoiler
+    400074: WindF
+    400076: WindFL
+    400078: WindFR
+    400080: WindR
+    2100000: "\u8F66"
+    2100002: "\u8F66\u6F06"
+    2100004: buxiugang
+    2100006: "\u73BB\u7483"
+    2100008: Badging Chrome
+    2100010: Misc Chrome
+    2100012: Interior Chrome
+    2100014: Interior
+    2100016: Roof
+    2100018: Body paint
+    2100020: Bottom
+    2100022: Mirror Chrome
+    2100024: Brake Disc
+    2100026: Brake Pads
+    2100028: "\u8F66\u724C"
+    2100030: License
+    2300000: Base
+    2300002: BLightL
+    2300004: BLightLG
+    2300006: BLightR
+    2300008: BLightRG
+    2300010: Body
+    2300012: BrakeFL
+    2300014: BrakeFR
+    2300016: BrakeRL
+    2300018: BrakeRR
+    2300020: BumperF
+    2300022: BumperFB
+    2300024: BumperR
+    2300026: BumperRB
+    2300028: DoorL
+    2300030: DoorR
+    2300032: Exhaust
+    2300034: HLightL
+    2300036: HLightLG
+    2300038: HLightR
+    2300040: HLightRG
+    2300042: Hood
+    2300044: Interior
+    2300046: LicenseF
+    2300048: LicenseR
+    2300050: MirrorL
+    2300052: MirrorR
+    2300054: Roof
+    2300056: Skirt
+    2300058: TireFL
+    2300060: TireFR
+    2300062: TireRL
+    2300064: TireRR
+    2300066: USpoiler
+    2300068: WindF
+    2300070: WindFL
+    2300072: WindFR
+    2300074: WindR
+    3300000: Base
+    3300002: BLightL
+    3300004: BLightLG
+    3300006: BLightR
+    3300008: BLightRG
+    3300010: Body
+    3300012: BrakeFL
+    3300014: BrakeFR
+    3300016: BrakeRL
+    3300018: BrakeRR
+    3300020: BumperF
+    3300022: BumperFB
+    3300024: BumperR
+    3300026: BumperRB
+    3300028: DoorL
+    3300030: DoorR
+    3300032: Exhaust
+    3300034: HLightL
+    3300036: HLightLG
+    3300038: HLightR
+    3300040: HLightRG
+    3300042: Hood
+    3300044: Interior
+    3300046: LicenseF
+    3300048: LicenseR
+    3300050: MirrorL
+    3300052: MirrorR
+    3300054: Roof
+    3300056: Skirt
+    3300058: TireFL
+    3300060: TireFR
+    3300062: TireRL
+    3300064: TireRR
+    3300066: USpoiler
+    3300068: WindF
+    3300070: WindFL
+    3300072: WindFR
+    3300074: WindR
+    4300000: Base
+    4300002: BLightL
+    4300004: BLightLG
+    4300006: BLightR
+    4300008: BLightRG
+    4300010: Body
+    4300012: BumperF
+    4300014: BumperFB
+    4300016: BumperR
+    4300018: BumperRB
+    4300020: DoorL
+    4300022: DoorR
+    4300024: Exhaust
+    4300026: HLightL
+    4300028: HLightLG
+    4300030: HLightR
+    4300032: HLightRG
+    4300034: Hood
+    4300036: Interior
+    4300038: MirrorL
+    4300040: MirrorR
+    4300042: Roof
+    4300044: Skirt
+    4300046: USpoiler
+    4300048: WindF
+    4300050: WindFL
+    4300052: WindFR
+    4300054: WindR
+    4300056: BrakeFL
+    4300058: TireFL
+    4300060: BrakeFR
+    4300062: TireFR
+    4300064: BrakeRL
+    4300066: TireRL
+    4300068: BrakeRR
+    4300070: TireRR
+    4300072: LicenseF
+    4300074: LicenseR
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Badging Chrome
+    second: {fileID: 2100000, guid: f64126a2001ad5348a84fbf71701d436, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body paint
+    second: {fileID: 2100000, guid: df96a8a2c98bc41488915352c303bf71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottom
+    second: {fileID: 2100000, guid: d43bcb3e36da1d448a1bcca7532ab917, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brake Disc
+    second: {fileID: 2100000, guid: 0c6e20ca5cead9340bcb6a22f26e6416, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brake Pads
+    second: {fileID: 2100000, guid: 4ab8fca7e613e654baace6dde72392d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Interior
+    second: {fileID: 2100000, guid: 0f0df1d51afc7be418fdb3428e7749dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Interior Chrome
+    second: {fileID: 2100000, guid: 532f3240d2be10647b442be3eae980ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: License
+    second: {fileID: 2100000, guid: 7cf5d15ebd1de31429c1ff475819ef55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mirror Chrome
+    second: {fileID: 2100000, guid: ae112aa7ebcbe8d4abfb8e044e1fd3e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Misc Chrome
+    second: {fileID: 2100000, guid: cc48c5d961770f0489cb1a13bb5cf7e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof
+    second: {fileID: 2100000, guid: 1862ae6cc68be384ebcdb975ee94e3bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: buxiugang
+    second: {fileID: 2100000, guid: 1b7017ce0ce758c4cb93819a44f55623, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u73BB\u7483"
+    second: {fileID: 2100000, guid: 05d6bb78e4c771948aba31ef75826180, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u8F66"
+    second: {fileID: 2100000, guid: 8fd7182c7a7c6494fb466abbbc557446, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u8F66\u6F06"
+    second: {fileID: 2100000, guid: 5bf38e986d1f404468a70c8bf45b500c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u8F66\u724C"
+    second: {fileID: 2100000, guid: d6cf755ded843694b9fb1ea3efc2d7da, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
